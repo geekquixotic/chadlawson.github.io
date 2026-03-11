@@ -1,3 +1,3 @@
-# chadlawson.github.io
+# chadlawson.me
 
 __Hello World__
