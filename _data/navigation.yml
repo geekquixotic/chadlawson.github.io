@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Hello"
-  - url: /_pages/Hello.md
-  -title: "About"
-  - url: /docs/about.md
+    url: /_pages/Hello.md
+  - title: "About"
+    url: /docs/about.md
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
