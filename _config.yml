@@ -114,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chad Lawson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Lifelong 'freak' and proud of it!"
+  location         : "20 Minutes Into the Future"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
